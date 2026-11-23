@@ -1,10 +1,3 @@
-House Price Prediction using Multiple Linear Regression
-Project Overview
-This project predicts the price of a house using Multiple Linear
-Regression. The model uses different house features such as area, number
-of bedrooms, bathrooms, stories, parking, and other facilities to
-estimate the house price.
-Activity
 Activity 1: Multiple Linear Regression
 Dataset Information
 - Dataset name: Housing Prices Dataset
